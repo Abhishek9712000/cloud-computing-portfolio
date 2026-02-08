@@ -19,11 +19,7 @@ export default function Hero() {
               transition={{ duration: 0.6 }}
               className="inline-block"
             >
-              <div className="glass px-4 py-2 rounded-full mb-6">
-                <span className="text-cyber-green text-sm font-medium">
-                  
-                </span>
-              </div>
+              
             </motion.div>
 
             <motion.h1
