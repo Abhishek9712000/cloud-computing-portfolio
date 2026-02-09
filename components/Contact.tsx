@@ -25,8 +25,8 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Mobile',
-    value: '+91-9877718263',
-    href: 'tel:+919877718263',
+    value: '+91-971200920',
+    href: 'tel:+91971200920',
   },
 ]
 

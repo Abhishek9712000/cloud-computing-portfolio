@@ -3,7 +3,7 @@ import { Github, ExternalLink } from 'lucide-react'
 const projects = [
   {
     number: '01',
-    title: 'World population and health analytica',
+    title: 'World population and health analytical',
     description: 'Developed a responsive data-driven analytics website that measure global population statistics and evaluates health percentage metrics for each country.',
 
     tech: ['Html', 'CSS', 'JavaScript','Python'],
@@ -13,10 +13,10 @@ const projects = [
   },
   {
     number: '02',
-    title: 'Music_Website',
+    title: 'Music_Streaming',
     description: 'Developed a music website featuring audio playback, playlist management, and responsive UI design.',
     tech: ['HTML', 'CSS',],
-    github: 'https://github.com/harikrishnamahato777/Yoga_Tracker_Main',
+    github: 'https://github.com/Abhishek9712000/Music_streaming',
     demo: 'https://harikrishnamahato777.github.io/Yoga_Tracker_Main/',
     date: 'Sep–Nov 2025',
   },
