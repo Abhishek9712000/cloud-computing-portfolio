@@ -16,7 +16,7 @@ const skillsData = [
   {
     category: 'Cloud Computing & Tools',
     icon: Shield,
-    skills: ['linux', 'Docker(Basic)', 'AWS','Linux'],
+    skills: ['linux', 'Docker(Basic)', 'AWS','Linux','MongoDb'],
     color: 'purple',
   },
   {
