@@ -13,13 +13,13 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'Connect with me',
+    value: 'https://www.linkedin.com/in/harikrishnamahato777/',
     href: 'https://www.linkedin.com/in/harikrishnamahato777',
   },
   {
     icon: Github,
     label: 'GitHub',
-
+    value: 'https://github.com/harikrishnamahato777',
     href: 'https://github.com/harikrishnamahato777',
   },
   {
