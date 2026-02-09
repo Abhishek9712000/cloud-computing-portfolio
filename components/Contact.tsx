@@ -7,20 +7,20 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'harikrishnamahato777@gmail.com',
-    href: 'mailto:harikrishnamahato777@gmail.com',
+    value: 'sabhishek38001@gmail.com',
+    href: 'mailto:sabhishek38001@gmail.com',
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/harikrishnamahato777/',
-    href: 'https://www.linkedin.com/in/harikrishnamahato777',
+    value: 'http://www.linkedin.com/in/abhi41',
+    href: 'https://www.linkedin.com/in/abhi41',
   },
   {
     icon: Github,
     label: 'GitHub',
-    value: 'https://github.com/harikrishnamahato777',
-    href: 'https://github.com/harikrishnamahato777',
+    value: 'https://github.com/Abhishek9712000',
+    href: 'https://github.com/Abhishek9712000',
   },
   {
     icon: Phone,

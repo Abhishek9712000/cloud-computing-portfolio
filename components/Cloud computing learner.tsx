@@ -1,25 +1,25 @@
-import { Shield, Terminal, Network, Eye } from 'lucide-react'
+import { Cloud, Server, Network, Activity } from 'lucide-react'
 
 const learningPoints = [
   {
-    icon: Terminal,
-    text: 'Practicing labs on TryHackMe to develop practical penetration testing and defensive security skills',
+    icon: Cloud,
+    text: 'Practicing hands-on labs on cloud platforms like AWS to understand core cloud services and deployments',
+  },
+  {
+    icon: Server,
+    text: 'Learning virtual machines, storage services, Linux systems, and cloud resource management',
   },
   {
     icon: Network,
-    text: 'Learning networking protocols, system security architecture, and configuration management',
+    text: 'Building strong fundamentals in cloud networking, VPCs, subnets, routing, and security groups',
   },
   {
-    icon: Shield,
-    text: 'Understanding attack surfaces, vulnerability exploitation, and defense mechanisms',
-  },
-  {
-    icon: Eye,
-    text: 'Building a foundation for SOC operations, incident analysis, and threat detection workflows',
+    icon: Activity,
+    text: 'Developing skills in monitoring, troubleshooting, and maintaining reliable cloud infrastructure',
   },
 ]
 
-export default function CyberLearning() {
+export default function CloudLearning() {
   return (
     <section id="learning" className="py-20 px-6">
       <div className="max-w-5xl mx-auto">
@@ -29,7 +29,7 @@ export default function CyberLearning() {
             Continuous Development
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-bold text-white mb-4">
-            Hands-on Cybersecurity Learning
+            Hands-on Cloud Computing Learning
           </h2>
         </div>
 
@@ -38,7 +38,7 @@ export default function CyberLearning() {
           <h3 className="font-display text-2xl font-bold text-cyber-cyan mb-8">
             Active Learning Path
           </h3>
-          
+
           <div className="space-y-6">
             {learningPoints.map((point, index) => {
               const Icon = point.icon
