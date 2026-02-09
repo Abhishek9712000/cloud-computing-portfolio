@@ -13,7 +13,7 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'https://www.linkedin.com/in/harikrishnamahato777/',
+    value: 'linkedin.com/in/harikrishnamahato777/',
     href: 'https://www.linkedin.com/in/harikrishnamahato777',
   },
   {
