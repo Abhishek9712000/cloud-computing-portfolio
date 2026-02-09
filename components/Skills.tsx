@@ -4,7 +4,7 @@ const skillsData = [
   {
     category: 'Programming',
     icon: Code2,
-    skills: ['C++', 'Python', 'C','Java','Python'],
+    skills: ['C++', 'Python', 'C','Java',],
     color: 'cyan',
   },
   {
@@ -14,9 +14,9 @@ const skillsData = [
     color: 'green',
   },
   {
-    category: 'Cybersecurity & Tools',
+    category: 'Cloud Computing & Tools',
     icon: Shield,
-    skills: ['TryHackMe', 'MySQL', 'VS Code'],
+    skills: ['linux', 'Docker(Basic)', 'AWS','Linux'],
     color: 'purple',
   },
   {
@@ -40,7 +40,7 @@ export default function Skills() {
             Skills & Expertise
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            A comprehensive toolkit for cybersecurity analysis and development
+            A comprehensive toolkit for Cloud computing and Devlopment
           </p>
         </div>
 

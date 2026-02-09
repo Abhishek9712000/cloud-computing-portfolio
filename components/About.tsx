@@ -18,38 +18,38 @@ export default function About() {
             <p>
               I am a{" "}
               <span className="text-cyber-green font-semibold">
-                Cyber Security student
+                Cloud Computing Student
               </span>{" "}
-              with a strong foundation in computer networks, system
-              configuration, and problem-solving. My approach to learning
-              centers on practical application—understanding not just what
-              security measures exist, but why they work and how they can be
-              bypassed.
+              With a strong foundation in computer networks, cloud computing basics, 
+              and system configuration. My learning approach emphasizes hands-on practice—understanding 
+              how cloud services work, why architectures are designed, and how to deploy, monitor, and 
+              troubleshoot them efficiently.
             </p>
 
             <p>
               I actively practice hands-on learning through platforms like{" "}
-              <span className="text-cyber-cyan font-semibold">TryHackMe</span>{" "}
-              and work on projects that strengthen my understanding of
-              real-world security concepts. From network packet analysis to
-              understanding system vulnerabilities, I am building the
-              technical foundation needed for defensive security operations.
+              <span className="text-cyber-cyan font-semibold">AWS</span>{" "}
+              and work on projects that strengthen my understanding of real-world cloud environments.
+              From deploying and managing cloud resources to implementing basic security and monitoring,
+              I am building the technical foundation needed for modern cloud operations.
+
             </p>
 
-            <p>
-              My goal is to start my career as a{" "}
-              <span className="text-cyber-green font-semibold">
-                SOC Analyst
-              </span>{" "}
-              or{" "}
-              <span className="text-cyber-green font-semibold">
-                Ethical Hacker
-              </span>{" "}
-              and grow through continuous learning and real incident exposure.
-              I believe that effective security comes from understanding both
-              the attacker&apos;s methodology and the defender&apos;s toolkit,
-              and I am committed to mastering both perspectives.
-            </p>
+          <p>
+             My goal is to start my career as a{" "}
+            <span className="text-cyber-green font-semibold">
+            Cloud Engineer
+            </span>{" "}
+            or{" "}
+           <span className="text-cyber-green font-semibold">
+           Cloud Support Associate
+           </span>{" "}
+           and grow through continuous learning and real-world infrastructure exposure.
+           I believe effective cloud solutions come from understanding architecture,
+           performance, and security together, and I am committed to building reliable,
+           scalable, and secure cloud environments.
+          </p>
+
           </div>
         </div>
       </div>

@@ -32,7 +32,7 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="font-display text-5xl md:text-7xl font-bold mb-6 text-gradient-cyber"
             >
-              Hari Krishna Mahato
+              Abishek Kumar Patel
             </motion.h1>
 
             <motion.p
@@ -41,7 +41,7 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-xl md:text-2xl text-gray-300 font-medium mb-6"
             >
-              Cyber Security Student | SOC Analyst Fresher | Networking & Security Fundamentals
+             Cloud Engineering Fresher | Cloud & Networking Fundamentals | Hands-on Learner
             </motion.p>
 
             <motion.p
@@ -50,9 +50,9 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.6 }}
               className="text-lg text-gray-400 max-w-2xl mx-auto lg:mx-0 mb-10 leading-relaxed"
             >
-              Focused on defensive security fundamentals, networking concepts, and hands-on practice using TryHackMe.
-              Interested in SOC operations, monitoring, and incident awareness. Actively building skills through
-              projects and continuous learning.
+              Focused on cloud computing fundamentals, networking concepts, and core security practices.
+              Gaining hands-on experience with cloud platforms, virtualization, and Linux through labs and
+              practical exercises. Interested in cloud infrastructure, deployment, monitoring, and reliability. Actively building skills through projects, certifications prep, and continuous learning.
             </motion.p>
 
             <motion.div

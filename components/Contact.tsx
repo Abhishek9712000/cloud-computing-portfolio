@@ -14,7 +14,7 @@ const contactInfo = [
     icon: Linkedin,
     label: 'LinkedIn',
     value: 'http://www.linkedin.com/in/abhi41',
-    href: 'https://www.linkedin.com/in/abhi41',
+    href: 'https://www.linkedin.com/in/abhi41git',
   },
   {
     icon: Github,

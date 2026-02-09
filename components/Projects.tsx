@@ -3,18 +3,19 @@ import { Github, ExternalLink } from 'lucide-react'
 const projects = [
   {
     number: '01',
-    title: 'Browser History Manager',
-    description: 'Simulates real browser navigation using Stack and Doubly Linked List. Integrates logical operations with GUI components. Tracks visited URLs clearly.',
-    tech: ['Java', 'Java Swing', 'JDK'],
+    title: 'World population and health analytica',
+    description: 'Developed a responsive data-driven analytics website that measure global population statistics and evaluates health percentage metrics for each country.',
+
+    tech: ['Html', 'CSS', 'JavaScript','Python'],
     github: 'https://github.com/harikrishnamahato777/Browser_History_Manager',
     demo: 'https://github.com/harikrishnamahato777/Browser_History_Manager',
     date: 'Jun–Jul 2025',
   },
   {
     number: '02',
-    title: 'Yoga_Tracker',
-    description: 'Fitness tracking + workout planner website. Tracks daily workouts, calorie intake, health statistics. Clean UI with focus on usability.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
+    title: 'Music_Website',
+    description: 'Developed a music website featuring audio playback, playlist management, and responsive UI design.',
+    tech: ['HTML', 'CSS',],
     github: 'https://github.com/harikrishnamahato777/Yoga_Tracker_Main',
     demo: 'https://harikrishnamahato777.github.io/Yoga_Tracker_Main/',
     date: 'Sep–Nov 2025',
