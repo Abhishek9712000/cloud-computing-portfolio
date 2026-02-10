@@ -7,9 +7,9 @@ const projects = [
     description: 'Developed a responsive data-driven analytics website that measure global population statistics and evaluates health percentage metrics for each country.',
 
     tech: ['Html', 'CSS', 'JavaScript','Python'],
-    github: 'https://github.com/harikrishnamahato777/Browser_History_Manager',
-    demo: 'https://github.com/harikrishnamahato777/Browser_History_Manager',
-    date: 'Jun–Jul 2025',
+    github: 'https://github.com/Abhishek9712000/world-population-and-health-analytical',
+    demo: 'https://abhishek9712000.github.io/world-population-and-health-analytical/',
+    date: 'Jun–Jul 2023',
   },
   {
     number: '02',
