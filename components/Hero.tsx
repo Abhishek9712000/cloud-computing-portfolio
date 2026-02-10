@@ -32,7 +32,7 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="font-display text-5xl md:text-7xl font-bold mb-6 text-gradient-cyber"
             >
-              Abishek Kumar Patel
+              Abhishek Kumar Patel
             </motion.h1>
 
             <motion.p
@@ -41,7 +41,7 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-xl md:text-2xl text-gray-300 font-medium mb-6"
             >
-             Cloud Engineering Fresher | Cloud & Networking Fundamentals | Hands-on Learner
+             Cloud Engineering | Cloud & Networking Fundamentals | Hands-on Learner
             </motion.p>
 
             <motion.p
