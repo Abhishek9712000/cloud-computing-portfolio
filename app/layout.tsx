@@ -2,14 +2,25 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Hari Krishna Mahato | Cybersecurity Portfolio',
-  description: 'Cyber Security Student | SOC Analyst Fresher | Networking & Security Fundamentals',
-  keywords: ['cybersecurity', 'SOC analyst', 'ethical hacker', 'portfolio', 'security'],
-  authors: [{ name: 'Hari Krishna Mahato' }],
+  title: 'Abhishek Kumar Patel | Cloud Computing Portfolio',
+  description:
+    'Cloud Computing Student | Cloud & Networking Fundamentals | Hands-on Learner',
+  keywords: [
+    'cloud computing',
+    'cloud engineer',
+    'AWS',
+    'Azure',
+    'DevOps',
+    'networking',
+    'cloud portfolio',
+  ],
+  authors: [{ name: 'Abhishek Kumar Patel' }],
   openGraph: {
-    title: 'Hari Krishna Mahato | Cybersecurity Portfolio',
-    description: 'Cyber Security Student | SOC Analyst Fresher',
+    title: 'Abhishek Kumar Patel | Cloud Computing Portfolio',
+    description:
+      'Cloud Computing student focused on cloud platforms, networking, and deployment',
     type: 'website',
+    siteName: 'Abhishek Cloud Portfolio',
   },
 }
 
