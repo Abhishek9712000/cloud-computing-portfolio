@@ -16,7 +16,7 @@ const projects = [
     title: 'Music_Streaming',
     description: 'Developed a music website featuring audio playback, playlist management, and responsive UI design.',
     tech: ['HTML', 'CSS',],
-    github: 'https://github.com/Abhishek9712000/Music_streaming',
+    github: 'https://github.com/Abhishek9712000/Yoga-Tracker',
     demo: 'https://harikrishnamahato777.github.io/Yoga_Tracker_Main/',
     date: 'Sep–Nov 2025',
   },
