@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="text-center space-y-4">
           <p className="text-gray-400 flex items-center justify-center gap-2">
             Built with <Heart className="w-4 h-4 text-cyber-pink fill-cyber-pink" /> for{' '}
-            <span className="text-cyber-green font-semibold">cybersecurity</span> and continuous learning
+            <span className="text-cyber-green font-semibold">cloud-computing</span> and continuous learning
           </p>
           <p className="text-gray-500 text-sm">
             © 2026 Abishek Kumar Patel. All rights reserved.
