@@ -21,7 +21,7 @@ const certificates: Certificate[] = [
   {
     title: "Fundamentals Of Network Communications",
     issuer: "Coursera",
-    date: "Sep",
+    date: "Sep 2024",
     color: "green",
     link: "https://drive.google.com/file/d/10TdXiKKBN2OToVWed_s4wLn4soUQkedy/view?usp=drive_link",
   },
