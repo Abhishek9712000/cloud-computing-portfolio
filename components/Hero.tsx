@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 import { Download, ArrowRight } from 'lucide-react'
 
 const RESUME_URL =
-  'https://drive.google.com/uc?export=download&id=1Q8UZFa068UKYufFBQvXAPmLchto41V7c'
+  'https://drive.google.com/file/d/1PGL3A0Unw-I-z_Gv1zTDqrRla4CeQB_k/view?usp=sharing'
 
 export default function Hero() {
   return (
